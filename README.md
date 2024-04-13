@@ -13,7 +13,7 @@
 <br>
 
 <p align="center" dir="auto">
-  <img alt="Projeto 01" src=".github/preview.png" width="100%" style="max-width: 100%;"></a>
+  <img alt="Projeto 01" src=".github/preview.PNG" width="100%" style="max-width: 100%;"></a>
 </p>
 
 ## 🚀 Tecnologias
