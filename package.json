@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://ViniciusBrunheroto.github.io/Trilha-Ignite-Projeto-01-React-TS",
+  "homepage": "https:/viniciusbrunheroto.github.io/Trilha-Ignite-Projeto-01-React-TS",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
