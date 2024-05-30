@@ -32,7 +32,7 @@ Nesse módulo, foi passado a aplicação React construída em JavaScript para o 
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1113573231685349036/ignite-feed). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/design/0n0zDN7zbzhRbaEO74Xesx/ToDo-List-%E2%80%A2-Desafio-React/duplicate?node-id=56-96). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 
 ---
